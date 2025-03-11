@@ -15,7 +15,7 @@ import windIcon from "./assets/wind.png"
 
 
 
-
+//this funcition is used to weather details
 const WeatherDetails = ({icon, temp, city, country, lat, log, humidity, wind, loading, error, cityNotFound}) => {
   return(
     <>
